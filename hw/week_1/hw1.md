@@ -1,5 +1,5 @@
 ### Homework #1: Big O
-##### Out: 9/1/17 | Due: 9/8/17 
+##### Out: 9/1/17 | Due: 9/7/17 @ 11:59 PM 
 ___
 #### Problem 1
 Write the function `findLargest` that takes an array of integers and returns the value of the largest element.
