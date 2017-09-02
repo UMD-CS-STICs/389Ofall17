@@ -3,9 +3,7 @@
 ## Credits: 1
 
 ## Course Description
-This course provides a comprehensive, practical introduction to technical interviews. The course will start with basic topics such as Big O and String Manipulation. We will then move into more complex topics such as Bit Manipulation and Dynamic Programming.
-
-Most of the classes will be "In-Class Interviews". 
+This course provides a comprehensive, practical introduction to technical interviews. The course will start with basic topics such as Big O and String Manipulation. We will then move into more complex topics such as Bit Manipulation and Dynamic Programming. Most of the classes will be in-class interviews to give real interview practice.
 
 ## Textbooks
 Required: None
