@@ -1,12 +1,12 @@
 ### Homework #1: Big O
-##### Out: 9/1/17 | Due: 9/8/17 
+##### Out: 9/1/17 | Due: 9/8/17 @ 2:00 PM 
 ___
 #### Problem 1
 Write the function `findLargest` that takes an array of integers and returns the value of the largest element.
 
 If you are given an empty array (`[]`) or null as input, you must return -1.
 
-### Example
+#### Example
 `findLargest([1, 4, 2, 8, 5, 6])` will return 8.
 
 `findLargest([10, -24, 72, 8, 35, 16])` will return 72.
@@ -25,7 +25,7 @@ Write a function `binaryToInteger` that takes a binary string (comprised of only
 
 Please do not use any default methods like `Integer.toString(String number, Integer base)`. 
 
-### Example
+#### Example
 `binaryToInteger("1011")` will return the integer 11, because 1011 in binary is 11 in base 10.
 
 `binaryToInteger("111")` will return the integer 7, because 111 in binary is 7 in base 10.
@@ -36,6 +36,7 @@ Please do not use any default methods like `Integer.toString(String number, Inte
 - Correct runtime and explanation [3 pts.]
 - Explanation of happy case [2 pts.]
 
+___
 #### Submission
 
 Please **record** yourself talking this problem through and handwriting the solution on a whiteboard. **There should NOT be cuts in this video.** This means that you must do this entire thing in one run-through. Please upload this video to YouTube (unlisted if you want), and submit the link for us to watch. In the description, please add the time stamps for each of the rubric points above. For example, the following could be a valid description.

@@ -60,9 +60,9 @@ ICI = In-Class Interviews
 | 14 (12/8) | ICI (Misc.) | FINAL DUE |
 
 ## Homework
-Homework must be submitted in video format electronically via ELMS and must be __no more__ than 30 minutes long. Homework may not be submitted by any other means (e.g., please do not email your homework to us). It is your responsibility to verify that your video plays back properly before submitting. All homework is due at 11:59 PM on the day indicated on the homework assignment.
+Homework must be uploaded to YouTube __unlisted__. To submit your homework, upload a simple text file containing the link to your video to the submit server. The time limit for the video will be given for each homework assignment. Homework may not be submitted by any other means (e.g., please do not email your homework to us). It is your responsibility to verify that your video plays back properly before submitting. All homework is due by the start of the next class after it is assigned. This is a hard deadline, as we hand back solutions to the previous homework each class.
 
-Homework may be submitted up to 24 hours late for a 10% penalty. You may submit multiple times, but we will only view the latest submission.
+You may submit multiple times, but we will only view the latest submission.
 
 |HW #|Topic|Reading|
 |----|----|----|
