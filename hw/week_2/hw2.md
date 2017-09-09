@@ -2,7 +2,9 @@
 ##### Out: 9/8/17 | Due: 9/15/17 
 ___
 #### Problem
-Given a sentence and a target string, search the sentence for the target. If the target is detected (the target is a substring of the sentence), reverse the target within the sentence, and return the sentence. If the target is not detected, you can return the original sentence. We discuss more of the specifications in the 'assumptions' section below.
+Given a sentence and a target word, search the sentence for the word. If the target word is detected in the sentence, reverse the target within the sentence, and return the sentence. If the target is not detected, you can return the original sentence. We discuss more of the specifications in the 'assumptions' section below.
+
+**Note:** If the target is a substring of another string, it is **not** a match. For example, if the target is `"ate"`, and the string is `"I created ice cream after I ate pizza."`, then `reverseOne("I created ice cream after I ate pizza", "ate")` will return `"I created ice cream after I eta pizza"`, even though `"ate"` is a substring of `"created."`
 
 Please describe an O(n) solution for this problem.
 
