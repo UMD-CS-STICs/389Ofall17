@@ -86,8 +86,10 @@ Dr. Dave Levin - dml@cs.umd.edu
 TA(s):
 
 Cameron Payton - cpayton@umd.edu
+- Office Hours: Fridays 3:00 - 4:00 PM in ESJ 2101
 
 Ishaan Parikh - iparikh@umd.edu
+- Office Hours: Fridays 4:00 - 5:00 PM in CSI 3118
 
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.
