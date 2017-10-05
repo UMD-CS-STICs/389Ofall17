@@ -48,10 +48,10 @@ ICI = In-Class Interviews
 | 2 (9/8) | ICI (String Manipulation) | HW1 DUE, HW2 OUT |
 | 3 (9/15) | ICI (Sorting + Searching) | HW2 DUE, HW3 OUT |
 | 4 (9/22) | ICI (Linked Lists) | HW3 DUE, HW4 OUT |
-| 5 (9/29) | ICI (Stacks + Queues) | HW4 DUE, HW5 OUT |
-| 6 (10/6) | ICI (Trees) | HW5 DUE, MIDTERM OUT |
-| 7 (10/13) | Graphs (DFS + BFS) + Sample Interview | |
-| 8 (10/20) | ICI (Graphs) | MIDTERM DUE, HW6 OUT |
+| 5 (9/29) | Graphs (DFS + BFS) + Sample Interview | HW4 DUE, HW5 OUT |
+| 6 (10/6) | ICI (Graphs 1) | HW5 DUE, MIDTERM OUT |
+| 7 (10/13) | ICI (Graphs 2) | |
+| 8 (10/20) | ICI (Trees) | MIDTERM DUE, HW6 OUT |
 | 9 (10/27) | Dynamic Programming + Sample Interview | HW6 DUE |
 | 10 (11/3) | ICI (Dynamic Programming) | HW7 OUT |
 | 11 (11/10) | Bit Manipulation + Sample Interview | HW7 DUE, HW8 OUT |
