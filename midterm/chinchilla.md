@@ -65,7 +65,7 @@ Calling `schedule_movies(moviegoers)` gives us:
 or
 ```python
 [
-  {"Thor", "The Avengers", "Sherlock Holmes"},
+  {"Thor", "The Avengers", "Sherlock Holmes", "Wonder Woman"},
   {"Spiderman", "Suicide Squad", "The Social Network"}
 ]
 ```
