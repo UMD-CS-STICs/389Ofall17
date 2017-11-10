@@ -1,4 +1,4 @@
-### Homework #7: Dynamic Programming
+### Homework #8: Dynamic Programming
 ##### Out: 11/10/17 | Due: 11/17/17 @ 2:00 PM
 ___
 #### Problem Statement
