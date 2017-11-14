@@ -65,3 +65,24 @@ def make_change(values, target):
 ```
 
 ____
+
+#### Alternate Solution
+
+While we originally specified this problem to be `O(nV)` space, we can also do a more optimized version in `O(V)` space. At each step of our iteration, we simply run through the coin values and check the indeces of the current slot minus the current coin value in order to determine the current max like so:
+
+```python
+def make_change(values, target):
+  # we can't use any coins to make 0, and we always have a penny
+  # so we can make 1 with 1 coin
+  values = [0, 1]
+  for i in range(2, target + 1):
+    min_val = float('inf')
+    for value in values:
+      if (i - value) >= 0:
+        min_val = min(min_val, 1 + values[i - value])
+      else:
+        min_val = values[i - 1]
+    values.append(min_val)
+    
+  return values[target]
+```
