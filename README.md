@@ -54,7 +54,7 @@ ICI = In-Class Interviews
 | 8 (10/20) | ICI (Trees) | MIDTERM DUE |
 | 9 (10/27) | Dynamic Programming + Sample Interview | HW6 OUT |
 | 10 (11/3) | ICI (Dynamic Programming) | HW6 DUE, HW7 OUT |
-| 11 (11/10) | Bit Manipulation + Sample Interview | HW7 DUE, HW8 OUT |
+| 11 (11/10) | ICI (Dynamic Programming) | HW7 DUE, HW8 OUT |
 | 12 (11/17) | ICI (Misc.) | HW8 DUE, FINAL OUT |
 | 13 (12/1) | ICI (Misc.) |  |
 | 14 (12/8) | ICI (Misc.) | FINAL DUE |
