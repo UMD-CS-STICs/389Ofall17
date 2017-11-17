@@ -30,29 +30,37 @@ decode_ways('112') // would return 3 because it could be any of {'AAB', 'AL', 'K
 ____
 
 #### Hints
-
+- We have to differentiate between 1 and 2 digit letters, so how can we do that?
+- When considering position i, how can we use the solutions to the subproblems i - 1 (a 1 digit letter at i) and i - 2 (a 2 digit letter at i)?
 
 
 ___
 
 #### Solution
 ```python
-def decode_ways(s):
-    if s == None or s == '' or s[0] == '0':
+def decode_ways(str):
+    # If the string starts with a 0, we return false because 01 does not decode to anything
+    if str == None or str == '' or str[0] == '0':
         return 0
-    sol = [1 if int(s[0]) != 0 else 0]
-    for idx, c in enumerate(s[1:]):
-        current = int(s[idx + 1])
-        two_dig = int(s[idx:idx + 2])
-        sol.append(0)
+
+    # At each step of our algorithm, we want to grab both the character in front of us and
+    # the two characters in front of us. We then want to sum the solution at our current
+    # index, and, if we have a valid 2-digit number, the solution at the index behind us
+    # as well. (Keep in mind that if the character in front of us is 0 then we will not 
+    # add the solution at the current index.)
+    solution = [1]
+    for index, _ in enumerate(str[1:]):
+        current = int(str[index + 1])
+        two_dig = int(str[index + 1] + str([index + 2]))
+        solution.append(0)
         if current > 0:
-            sol[idx + 1] += sol[idx]
+            solution[index + 1] += solution[index]
         if two_dig <= 26 and two_dig >= 10:
-            if idx - 2 >= 0:
-                sol[idx + 1] += sol[idx - 1]
+            if index - 2 >= 0:
+                solution[index + 1] += solution[index - 1]
             else:
-                sol[idx + 1] += 1
-    return sol[len(sol) - 1]
+                solution[index + 1] += 1
+    return solution[len(solution) - 1]
 ```
 ___
 Source: https://leetcode.com/problems/decode-ways/description/
