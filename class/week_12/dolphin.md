@@ -38,20 +38,20 @@ ___
 
 #### Solution
 ```python
-def decode_ways(str):
+def decode_ways(s):
     # If the string starts with a 0, we return false because 01 does not decode to anything
-    if str == None or str == '' or str[0] == '0':
+    if s == None or s == '' or s[0] == '0':
         return 0
 
-    # At each step of our algorithm, we want to grab both the character in front of us and
-    # the two characters in front of us. We then want to sum the solution at our current
-    # index, and, if we have a valid 2-digit number, the solution at the index behind us
-    # as well. (Keep in mind that if the character in front of us is 0 then we will not 
-    # add the solution at the current index.)
+    # At each step of our algorithm, we want to grab both the character in front of us. 
+    # We then want to sum the solution at our current index, and, if we have a valid
+    # 2-digit number, the solution at the index behind us as well. (Keep in mind that
+    # if the character in front of us is 0 then we will not add the solution at the
+    # current index.)
     solution = [1]
-    for index, _ in enumerate(str[1:]):
-        current = int(str[index + 1])
-        two_dig = int(str[index + 1] + str([index + 2]))
+    for index, _ in enumerate(s[1:]):
+        current = int(s[index + 1])
+        two_dig = int(s[index] + s[index + 1])
         solution.append(0)
         if current > 0:
             solution[index + 1] += solution[index]
