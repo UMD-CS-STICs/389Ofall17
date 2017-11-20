@@ -30,6 +30,7 @@ Please zip up a folder with the following contents:
 ```
 chinchilla.(py/java/c/whatever extension)
 youtube_link.txt
+essay.pdf
 ```
 
 You are welcome to use whatever programming language you want for this assignment (as usual), but **you must give us instructions on how to run your file with the test data given at the top of each file**. This can be simple and require slight manual entry. For example, my `chinchilla.py` could look like.
