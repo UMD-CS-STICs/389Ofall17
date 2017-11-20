@@ -3,7 +3,9 @@
 ## Credits: 1
 
 ## Course Description
-This course provides a comprehensive, practical introduction to technical interviews. The course will start with basic topics such as Big O and String Manipulation. We will then move into more complex topics such as Bit Manipulation and Dynamic Programming. Most of the classes will be in-class interviews to give real interview practice.
+This course provides a comprehensive, practical introduction to technical interviews. The course will start with basic topics such as Big O and String Manipulation. We will then move into more complex topics such as Bit Manipulation and Dynamic Programming.
+
+Most of the classes will be "In-Class Interviews". 
 
 ## Textbooks
 Required: None
@@ -33,7 +35,7 @@ Your final course grade will be determined according to the following percentage
 | 30% | Class Participation | Each class will require active participation from the students. |
 | 20% | Homework  | Weekly individual homework that require video submission of solution. |
 | 20% | Midterm | Two problems will be handed out (just like the homeworks). These problems will be more difficult than normal HW problems, but are the same format.  |
-| 30% | Final | Three problems will be handed out (just like the homeworks). These problems will be more difficult than normal HW problems, but are the same format. |
+| 30% | Final | One problem will be handed out (just like the homeworks). This problems will be more difficult than normal HW problems, but is the same format. You must also complete an "essay" in which you detail how to complete a coding interveiw to someone who's never been in a coding interview before. |
 
 Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests
 will be considered afterwards.
@@ -48,21 +50,21 @@ ICI = In-Class Interviews
 | 2 (9/8) | ICI (String Manipulation) | HW1 DUE, HW2 OUT |
 | 3 (9/15) | ICI (Sorting + Searching) | HW2 DUE, HW3 OUT |
 | 4 (9/22) | ICI (Linked Lists) | HW3 DUE, HW4 OUT |
-| 5 (9/29) | Graphs (DFS + BFS) + Sample Interview | HW4 DUE, HW5 OUT |
-| 6 (10/6) | ICI (Graphs 1) | HW5 DUE, MIDTERM OUT |
-| 7 (10/13) | ICI (Graphs 2) | |
-| 8 (10/20) | ICI (Trees) | MIDTERM DUE |
-| 9 (10/27) | Dynamic Programming + Sample Interview | HW6 OUT |
-| 10 (11/3) | ICI (Dynamic Programming) | HW6 DUE, HW7 OUT |
-| 11 (11/10) | ICI (Dynamic Programming) | HW7 DUE, HW8 OUT |
+| 5 (9/29) | ICI (Stacks + Queues) | HW4 DUE, HW5 OUT |
+| 6 (10/6) | ICI (Trees) | HW5 DUE, MIDTERM OUT |
+| 7 (10/13) | Graphs (DFS + BFS) + Sample Interview | |
+| 8 (10/20) | ICI (Graphs) | MIDTERM DUE, HW6 OUT |
+| 9 (10/27) | Dynamic Programming + Sample Interview | HW6 DUE |
+| 10 (11/3) | ICI (Dynamic Programming) | HW7 OUT |
+| 11 (11/10) | Bit Manipulation + Sample Interview | HW7 DUE, HW8 OUT |
 | 12 (11/17) | ICI (Misc.) | HW8 DUE, FINAL OUT |
 | 13 (12/1) | ICI (Misc.) |  |
 | 14 (12/8) | ICI (Misc.) | FINAL DUE |
 
 ## Homework
-Homework must be uploaded to YouTube __unlisted__. To submit your homework, upload a simple text file containing the link to your video to the submit server. The time limit for the video will be given for each homework assignment. Homework may not be submitted by any other means (e.g., please do not email your homework to us). It is your responsibility to verify that your video plays back properly before submitting. All homework is due by the start of the next class after it is assigned. This is a hard deadline, as we hand back solutions to the previous homework each class.
+Homework must be submitted in video format electronically via ELMS and must be __no more__ than 30 minutes long. Homework may not be submitted by any other means (e.g., please do not email your homework to us). It is your responsibility to verify that your video plays back properly before submitting. All homework is due at 11:59 PM on the day indicated on the homework assignment.
 
-You may submit multiple times, but we will only view the latest submission.
+Homework may be submitted up to 24 hours late for a 10% penalty. You may submit multiple times, but we will only view the latest submission.
 
 |HW #|Topic|Reading|
 |----|----|----|
@@ -86,10 +88,8 @@ Dr. Dave Levin - dml@cs.umd.edu
 TA(s):
 
 Cameron Payton - cpayton@umd.edu
-- Office Hours: Fridays 3:00 - 4:00 PM in ESJ 2101
 
 Ishaan Parikh - iparikh@umd.edu
-- Office Hours: Fridays 4:00 - 5:00 PM in CSI 3118
 
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.
