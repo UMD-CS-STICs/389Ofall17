@@ -2,7 +2,9 @@
 
 **Submissions are different for the final, so please read this!**
 
-Please record a video of yourself talking through this problems and coding **and running** the solution on HireFlock or Coderpad (we specifically chose these platforms because you can run your code in the environments). **There should NOT be cuts in the videos.** This means that you must do the problem in one run-through. Please upload the video to YouTube (unlisted), and submit the link for us to watch in another file (covered below). In the description **of the YouTube video** (and not the submitted file), please add the timestamps for each of the rubric points above. For example, the following could be a valid description. We ask you to do this because YouTube allows us to click on the timestamps to quickly go through videos.
+Essay: Please submit a pdf of your response to the essay question. This should be included in the zip file that you upload with your code and video link.
+
+Video: Please record a video of yourself talking through this problems and coding **and running** the solution on HireFlock or Coderpad (we specifically chose these platforms because you can run your code in the environments). **There should NOT be cuts in the videos.** This means that you must do the problem in one run-through. Please upload the video to YouTube (unlisted), and submit the link for us to watch in another file (covered below). In the description **of the YouTube video** (and not the submitted file), please add the timestamps for each of the rubric points above. For example, the following could be a valid description. We ask you to do this because YouTube allows us to click on the timestamps to quickly go through videos.
 
 **NOTE: Just to reiterate, we want to see you run your code in your editor on the examples given so that you know whether your code works!**
 
