@@ -2,7 +2,7 @@
 
 **Submissions are different for the final, so please read this!**
 
-Please record **two separate videos** of yourself talking through these problems and coding **and running** the solution on HireFlock or Coderpad (we specifically chose these platforms because you can run your code in the environments). **There should NOT be cuts in the videos.** This means that you must do each problem in one run-through. Please upload these videos to YouTube (unlisted), and submit the links for us to watch in another file (covered below). In the description **of the YouTube video** (and not the submitted file), please add the time stamps for each of the rubric points above. For example, the following could be a valid description. We ask you to do this because YouTube allows us to click on the timestamps to quickly go through videos.
+Please record a video of yourself talking through this problems and coding **and running** the solution on HireFlock or Coderpad (we specifically chose these platforms because you can run your code in the environments). **There should NOT be cuts in the videos.** This means that you must do the problem in one run-through. Please upload the video to YouTube (unlisted), and submit the link for us to watch in another file (covered below). In the description **of the YouTube video** (and not the submitted file), please add the timestamps for each of the rubric points above. For example, the following could be a valid description. We ask you to do this because YouTube allows us to click on the timestamps to quickly go through videos.
 
 **NOTE: Just to reiterate, we want to see you run your code in your editor on the examples given so that you know whether your code works!**
 
@@ -17,7 +17,7 @@ An example YouTube description would look like the following.
 
 **If you do not submit a timestamped description, we will need you to resubmit for 5% off!**
 
-Please remember that these videos do not need to be perfect. You can stumble a few times/repeat yourself maybe/have to start sentences over and you will NOT get points off!
+Please remember that the video does not need to be perfect. You can stumble a few times/repeat yourself maybe/have to start sentences over and you will NOT get points off!
 
 ### So what exactly are we submitting?
 
@@ -27,8 +27,7 @@ Please zip up a folder with the following contents:
 
 ```
 chinchilla.(py/java/c/whatever extension)
-dolphin.(py/java/c/whatever extension)
-youtube_links.txt
+youtube_link.txt
 ```
 
 You are welcome to use whatever programming language you want for this assignment (as usual), but **you must give us instructions on how to run your file with the test data given at the top of each file**. This can be simple and require slight manual entry. For example, my `chinchilla.py` could look like.
@@ -58,8 +57,7 @@ Just so you aren't upset that we are making you do this extra work, here is our 
 Your `youtube_links.txt` file should look like the following:
 
 ```text
-Chinchilla: https://www.youtube.com/watch?v=esV8bKn8_Js
-Dolphin: https://www.youtube.com/watch?v=GshEzAUVcvQ
+https://www.youtube.com/watch?v=esV8bKn8_Js
 ```
 
 __Please reach out if you have any questions!__
