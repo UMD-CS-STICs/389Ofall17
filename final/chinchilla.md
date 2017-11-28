@@ -31,8 +31,8 @@ ____
 
 ### Grading
 - Explanation of what you are writing as you are writing it and correctness of algorithm [5 pts.]
-- Explanation of `O(n^2)` runtime [5 pts.]
-- Algorithms uses `O(n^2)` space [5 pts.]
+- Explanation of `O(mn)` runtime [5 pts.]
+- Algorithms uses `O(mn)` space [5 pts.]
 - Walk-through of at least 2 sample cases [10 pts.]
 - Submitted code that is runnable and works correctly [5 pts.]
 
