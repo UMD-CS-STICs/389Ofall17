@@ -34,7 +34,7 @@ ____
 
 - Explanation of what you are writing as you are writing it and correctness of algorithm [3 pts.]
 - Explanation of `O(nm)` runtime [5 pts.]
-- Walk-through of sample true case [1 pts.
+- Walk-through of sample true case [1 pts.]
 - Walk-through of sample false case [1 pts.]
 
 ___

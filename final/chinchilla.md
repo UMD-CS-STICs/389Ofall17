@@ -12,7 +12,7 @@ You will be given as input two DNA sequences of equal length, an occlusion cost 
 - The sequences are not necessarily of equal length
 - More than one combination of occlusions and matches may result in the same answer
 
-*Target:* Please describe a solution with `O(n^2)` runtime, where `n` is the length of one DNA sequence (remember, they are the same length). You may also use `O(n^2)` space.
+*Target:* Please describe a solution with `O(mn)` runtime, where `n` is the length of one DNA sequence, and `m` is the length of the other (remember, they are not always the same length). You may also use `O(mn)` space.
 
 ##### Examples
 
@@ -31,8 +31,8 @@ ____
 
 ### Grading
 - Explanation of what you are writing as you are writing it and correctness of algorithm [5 pts.]
-- Explanation of `O(n^2)` runtime [5 pts.]
-- Algorithms uses `O(n^2)` space [5 pts.]
+- Explanation of `O(mn)` runtime [5 pts.]
+- Algorithms uses `O(mn)` space [5 pts.]
 - Walk-through of at least 2 sample cases [10 pts.]
 - Submitted code that is runnable and works correctly [5 pts.]
 
