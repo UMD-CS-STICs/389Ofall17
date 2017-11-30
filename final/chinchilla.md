@@ -1,5 +1,5 @@
 ### FINAL
-##### Out: 12/1/17 | Due: 12/8/17 @ 11:59:59 PM
+##### Out: 11/20/17 | Due: 12/8/17 @ 11:59:59 PM
 ___
 #### Problem Statement
 You are a scientist at the world famous, cutting-edge genetics lab *Genix*. Your project is to determine similarities between species in order to draw conclusions about evolutionary progressions and the relationships between organisms. As part of your work, you are responsible for matching DNA sequences. DNA sequences are composed of the following characters: 'A', 'T', 'C', and 'G'. When determining how related two organisms are, you compare two sequences of DNA, and output a number that represents the *cost* of matching these two sequences. There are three actions you can take when matching sequences: ignore (occlude) the current character in sequence 1, ignore (occlude) the current character in sequence 2, or match the current character in both sequences. Each action comes with a specific cost, so you want to minimize this cost over the entire sequence in order to get an accurate reading. 
