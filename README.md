@@ -59,7 +59,7 @@ ICI = In-Class Interviews
 | 11 (11/10) | Bit Manipulation + Sample Interview | HW7 DUE, HW8 OUT |
 | 12 (11/17) | ICI (Misc.) | HW8 DUE, FINAL OUT |
 | 13 (12/1) | ICI (Misc.) |  |
-| 14 (12/8) | ICI (Misc.) | FINAL DUE |
+| 14 (12/8) | NO CLASS | FINAL DUE |
 
 ## Homework
 Homework must be submitted in video format electronically via ELMS and must be __no more__ than 30 minutes long. Homework may not be submitted by any other means (e.g., please do not email your homework to us). It is your responsibility to verify that your video plays back properly before submitting. All homework is due at 11:59 PM on the day indicated on the homework assignment.
